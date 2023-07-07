@@ -1,0 +1,11 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Introduction}{4}{0}{1}
+\beamer@sectionintoc {2}{Implementation of authentication and user management}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Why is React Native authentication important?}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Implementing React Native authentication with OAuth2}{8}{0}{2}
+\beamer@subsectionintoc {2}{3}{What is Proof of Key Code Exchange or PKCE?}{11}{0}{2}
+\beamer@subsectionintoc {2}{4}{React Native authentication libraries}{12}{0}{2}
+\beamer@subsectionintoc {2}{5}{React Native authentication libraries}{12}{0}{2}
+\beamer@subsubsectionintoc {2}{5}{1}{React Native App Auth}{13}{0}{2}
+\beamer@subsubsectionintoc {2}{5}{2}{React Navigation}{14}{0}{2}
+\beamer@subsubsectionintoc {2}{5}{3}{React Native OAuth}{15}{0}{2}
